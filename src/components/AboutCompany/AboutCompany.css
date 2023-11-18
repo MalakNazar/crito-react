@@ -1,0 +1,98 @@
+.AboutStyle{
+ display: flex;
+ justify-content: center;
+padding-top:3rem;
+margin-bottom: 10rem;
+}
+.Abouttitle{
+    color: #E22121;
+    margin-left: -10rem;
+}
+
+.Business{
+  
+    margin-left:-6rem ;
+}
+.Business1{
+
+    margin-top: -10px;
+    margin-left:-2rem ;
+
+}
+.Business2{
+     margin-top:-10px;
+    margin-left:-8rem ;
+}
+.decrit{
+font-size: 14px;
+color: rgba(121, 118, 118, 0.846);
+margin-top: 2rem;
+}
+.decrit1{
+    font-size: 14px;
+    color: rgba(121, 118, 118, 0.846);
+    margin-top: 2rem;
+    }
+
+.introVideo{
+    font-size:large;
+    font-weight: bolder;
+    display:flex;
+    color: #961111;
+    margin-top: -2.4rem;
+    margin-left:4rem
+
+}    
+.svg6{
+  margin-left: -7rem;
+  margin-top: -1.6rem;
+}
+.learnmore{
+     
+    margin-top: 3rem;
+     font-size:large;
+     margin-left:10rem;
+     font-weight: bolder;
+    
+    
+}
+.svg5{
+
+    margin-top: -1.5rem;
+    margin-left: 6rem;
+}
+
+.imge{
+  margin-top: -2rem;
+  height: 550px;
+    width: 350px;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+
+.kart{
+    margin-top: -17rem;
+    margin-left: 3rem;
+}
+.kart1{
+    background-color: #8adcff;
+    
+    
+}
+.cartT{
+ margin-bottom: 1rem;
+  margin-left: -6rem;
+}
+.CardTitle1{
+color:#b91010;
+margin-top:-2.2rem;
+margin-right:-6rem;
+margin-bottom: 1rem;
+
+
+}
+.card-desc{
+ 
+ font-size:x-small;
+ color:#262626
+}

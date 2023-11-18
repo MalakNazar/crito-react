@@ -1,0 +1,75 @@
+
+.OurServices{
+
+    background-color:#F0EFE9;
+}
+.tittle{
+    color: #E22121;
+   margin-left:-22rem;
+   margin-top: 3rem;
+
+}
+.weP{
+    margin-left: -18rem;
+}
+.weP1{
+    margin-left: -17rem;
+    margin-bottom: 2rem;
+}
+
+.card:hover{
+
+background-color: #EAD370;
+}
+
+.CardText{
+
+    font-size:11px;
+    color: rgba(105, 105, 105, 0.912);
+}
+
+.hr{
+
+    border: 1.5px solid black;
+    width:27px; 
+}
+
+.CardTitle{
+
+    font-size: 15px;
+     display: flex;
+}
+.button{
+    
+border-radius:50%;
+background-color: #000000;
+border: none;
+color: white;
+padding: 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin-left: 7rem;
+}
+
+.button:hover{
+
+ background-color: white;
+color:#000000
+}
+
+.btn4{
+   
+    margin-top:2rem;
+   width: 100%;
+   border-radius: 2rem;
+   color: rgb(0, 0, 0);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: larger;
+   font-weight: 600;
+
+ 
+}

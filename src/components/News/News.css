@@ -1,0 +1,56 @@
+
+.Article{
+ color:#E22121;
+ display: flex;
+ margin-top: 2rem;
+
+}
+.getNews{
+ display: flex;
+
+}
+
+.BrowesTeam3{
+    margin-left:45rem;
+    margin-top:-2.5rem;
+    margin-bottom: 1rem;
+    height: 2rem;
+    width: 9rem;
+    border-color: #000000;
+    border-radius: 2rem;  
+    color: rgb(0, 0, 0);
+    font-size:medium;
+    background:#e2d6d600;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.news-kort1{
+
+    border-color: rgba(223, 230, 236, 0.216);
+    margin-bottom: 1rem;
+}
+.newsholder{
+
+display: flex;
+justify-content: space-between;
+}
+.cart-desc{
+    font-size: medium;
+    display: flex;
+    justify-content:start;
+
+}
+
+.cart-para{
+font-size: x-small;
+color: rgb(112, 106, 106);
+
+}
+.cart-tittle1{
+ 
+    font-size:small ;
+    color: rgb(112, 106, 106);
+}
+

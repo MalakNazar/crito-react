@@ -1,0 +1,60 @@
+.korts{
+
+    display: flex;
+    justify-content:space-between;
+    margin-top: 5rem;
+   
+}
+
+.Kortstext{
+    color: rgb(100, 99, 99);
+    margin-bottom: 1rem;
+    display:flex;
+    justify-content:start;
+    margin-left: -1rem;
+}
+
+.kortstitle{
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: start;
+   
+}
+
+.NewAr12{
+    margin-top: -7rem;
+    color: rgb(39, 37, 38);
+}
+.colcolor{
+    background-color: #F0EFE9;
+}
+.leaveUs{
+
+    margin-top: 3rem;
+}
+.styling{
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+    width:90%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.styling-1{
+
+    margin-left:5.5rem;
+}
+.s-1{
+    margin-left: 4rem;
+}
+.styling-2{
+    border-radius: 20px;
+    background:#EAD370;
+    width:90%;
+    display: flex;
+    justify-content: center;
+    border-color: #EAD370;
+    color: rgb(31, 30, 30);
+    font-weight: 500;
+}

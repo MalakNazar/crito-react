@@ -1,0 +1,50 @@
+.box-sh {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 0px 8px;
+    
+  }
+  .para {
+    
+    font-size: 30px;
+    margin-left: 20px;
+  }
+  .para12{
+    
+    font-size: 30px;
+    margin-left: 45px;
+  }
+
+  .para2 {
+   
+    font-size: 30px;
+    margin-left:-45px;
+  }
+ .features{
+  margin-left: -8rem;
+  margin-top:3rem ;
+  color: rgb(226, 33, 33);
+ 
+  }
+.features-bottom {
+    margin-top: 1.5rem;
+    
+    width:80%;
+    border-radius: 2rem;
+    background-color: #ead370;
+    color: black;
+    font-size:large;
+    font-weight:bolder;
+    display: flex;
+   height: 3rem;
+    align-items: center;
+    justify-content: center;
+    margin-left: 4rem;
+    border-color:#ead47000;
+
+
+  }
+
+  .para-1{
+    color: dimgrey;
+    
+    
+  }

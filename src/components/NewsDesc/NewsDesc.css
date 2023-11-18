@@ -1,0 +1,104 @@
+.list{
+
+    display:flex;
+    align-items: center;
+    text-align: center;
+    margin:20px;
+}
+.list1{
+
+    margin:5px;
+}
+.text78{
+    font-weight: bold;
+}
+.HowTo{
+    margin-left: -6rem;
+}
+.HowTo1{
+     margin-left: -11rem;
+}
+.mainimg12{
+    width:100%;
+}
+.bara3{
+    font-size: small;
+    color: rgb(119, 109, 109);
+}
+.kart51{
+  background:#F0EFE9;
+  margin:1rem;
+  border-color:#F0EFE9 ;
+}
+.card-desc1{
+    font-size: medium;
+    font-weight:500;
+    padding:10px;
+    color:#2e2c2c;
+}
+.cartT1{
+
+    display: flex;
+}
+
+.our-globall{
+    
+    width:6rem;
+    border-color: #fff;
+    border-radius: 2rem;
+    color: rgb(59, 58, 58);
+    font-size:small;
+    font-weight: bold;
+    background:#e7e6e1;
+    padding:10px;
+
+}
+.cartT1T{
+    display: flex;
+    font-size: x-large;
+    font-weight:600;
+
+}
+.hr4{
+ color: black;
+ width:60px;
+ font-weight:bolder;
+ margin-top:3px;
+}
+.Blow{
+
+    font-size: small;
+    font-weight:bold;
+    display: flex;
+}
+.Blow1{
+
+    font-size: small;
+    font-weight:bold;
+    display: flex;
+    margin-top: -1rem;
+}
+.Blow2{
+    display: flex;
+    color:darkgrey;
+    font-weight: 500;
+    font-size: small;
+    margin-top:-5px;
+}
+.searchB{
+    background-color:#F0EFE9 ;
+}
+
+.catoGri{
+  display: flex;
+  font-size: large;
+  font-weight: 600;
+     
+
+}
+.catoGri1{
+    margin-top: 3px;
+     font-size:medium;
+    color: rgb(180, 164, 164);
+    margin-left: 6px;
+}

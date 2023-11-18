@@ -1,0 +1,14 @@
+.btn-1{
+     margin:15px 20px 0 0 ;
+    height: 2.5rem;
+    width:8rem;
+    border-radius: 2rem ;
+    background-color: #ead370;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    border-color:#ead47000;
+}
+.text1:hover{
+    color:black;
+}

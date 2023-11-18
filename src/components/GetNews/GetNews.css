@@ -1,0 +1,27 @@
+.style{
+    
+}
+#search-box{
+    border-radius: 50px;
+    height: 2.7rem;
+   
+ 
+}
+.navcolor{
+    background-color: #F0EFE9;
+    
+}
+.boxText{
+
+    font-size:30px;
+}
+#subb-1{
+ 
+    width:9rem;
+    border-radius: 50px;
+    background-color: #EAD370;
+    color: black;
+    font-size: 20px;
+    align-items: center;
+  
+}
